@@ -2,7 +2,8 @@ MarkDown
 ========
 
 - 目录说明
-	- [Note](Note)    (笔记类)
-		- Git  (Git相关操作)
+	- [REANME](README.md) 
+	- [Note](Note)
+		- [Git](Note/Git)
 	
 		
