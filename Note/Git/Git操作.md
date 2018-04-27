@@ -16,7 +16,7 @@ Git操作
 - 添加 key 到 GitHub 上
 	- 查看是否在本地生成 key
 
-		ls -al ~/.ssh
+			ls -al ~/.ssh
 
 	1. 如果有 key 则跳过这一步 进行下一步 
 
