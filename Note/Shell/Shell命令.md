@@ -1,5 +1,10 @@
 # Shell命令
 
+#### shell 命令格式
+	
+	#! bin/bash
+	Your Command
+
 #### shell命令行中获取日期
 	
 	`date + %Y-%m-%d
@@ -12,4 +17,4 @@
 		%H 小时
 		%M 分
 		%S 秒
-		
+	
