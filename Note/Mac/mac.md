@@ -4,3 +4,6 @@
 	
 		log show | grep -i "wake reason"
 
+- 定时任务
+	
+		crontab
