@@ -20,7 +20,7 @@ Git操作 (同样适用与Mac)
 
 	1. 如果有 key 则跳过这一步 进行下一步 
 
-			ssh-keygeen -t rsa -C "YourEmail"
+			ssh-keygen -t rsa -C "YourEmail"
 		
 	2. 用编辑器打开 并 复制
 	
