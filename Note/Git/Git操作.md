@@ -14,7 +14,7 @@ Git操作 (同样适用与Mac)
 		git config --global user.email "YourEmail"
 
 - 添加 key 到 GitHub 上
-	- 查看是否在本地生成 key
+	- 查看是否在本地生成 key 是否存在 .ssh 文件夹
 
 			ls -al ~/.ssh
 
