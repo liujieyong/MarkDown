@@ -32,7 +32,7 @@ Git操作 (同样适用与Mac)
 	
 	4. 克隆 项目 到本地
 	
-			git clone git@github.com:YourName/YourProgect.git 
+			git clone git@github.com:YourName/YourProgect.git
 			
 - 推送项目到GitHub
 	
@@ -47,3 +47,5 @@ Git操作 (同样适用与Mac)
 
 	 
 	
+
+
