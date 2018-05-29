@@ -52,7 +52,7 @@
 
 - 获取手动激活的请求码
 
-- 到 `http://tool.chacuo.net/cryptrsaprikey` 去解密激活请求信息
+- 到 [解密](http://tool.chacuo.net/cryptrsaprikey) `http://tool.chacuo.net/cryptrsaprikey` 去解密激活请求信息
 
 - 得到类似 
 	
