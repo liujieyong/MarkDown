@@ -62,7 +62,7 @@
 		  "DI" : "ODQ2Yjg2ZDBjMTEzMjhh"
 		}
 		
-- 替换 ` {"K":"NAVHT4PXWT8WQBL5", "N":"52pojie", "O":"52pojie.cn", "DI":"ODQ2Yjg2ZDBjMTEzMjhh", "T":1516939200} ` 中的内容 时间戳要用当时的时间戳 不然无法激活
+- 替换 ` {"K":"NAVHT4PXWT8WQBL5", "N":"jieyong", "O":"z.cn", "DI":"NGVkN2ZkMjg2NmVhMTdj", "T":1527664170} ` 中的内容 时间戳要用当时的时间戳 不然无法激活
 
 - 加密工具加密 
 
