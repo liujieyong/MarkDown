@@ -3,4 +3,7 @@
 - 显示隐藏
 		
 		Command + Shift + .
+		
+- Command 键
+	
 
