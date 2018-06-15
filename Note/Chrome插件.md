@@ -2,10 +2,10 @@
 
 ### 1.地址
 
-[插件地址](https://chrome.google.com/webstore/category/extensions?hl=zh-CN)
+[Chrome插件](https://chrome.google.com/webstore/category/extensions?hl=zh-CN)
 
 ### 2.下载crx文件地址
 
-[下载地址](https://chrome-extension-downloader.com/)
+[下载Chrome插件的crx文件](https://chrome-extension-downloader.com/)
 
 
